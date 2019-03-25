@@ -1,5 +1,5 @@
 # How to fetch data in React using effect hook, custom hook and reducer hook.
-Based on [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/).
+Based on [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 ## Available Scripts
 
